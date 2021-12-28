@@ -10,5 +10,4 @@ Sources:
 
 https://developer.apple.com/documentation/arkit/content_anchors/tracking_and_visualizing_faces
 https://coderedirect.com/questions/166424/projecting-the-arkit-face-tracking-3d-mesh-to-2d-image-coordinates
-[ARKitDemo.xcodeproj.zip](https://github.com/tusharC95/ARKitDemo/files/7785255/ARKitDemo.xcodeproj.zip)
-[ARKitDemo.xcodeproj.zip](https://github.com/tusharC95/ARKitDemo/files/7785270/ARKitDemo.xcodeproj.zip)
+
